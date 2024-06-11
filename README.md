@@ -1,7 +1,7 @@
-👋 Hi, this is the official GitHub repository of Net Privacy Pro!
+👋 Hi, this is the official GitHub account of Net Privacy Pro!
 ===
 
-In this repository, you will find tutorials, reference snippets, and projects discussed on [Net Privacy Pro](https://netprivacypro.com).
+On these pages, you will find tutorials, reference snippets, and projects discussed on [Net Privacy Pro](https://netprivacypro.com).
 
 Net Privacy Pro is focused on online safety and privacy, and covers topics from safe and secure internet access and browsing to anonymous hosting and messaging, password management, and matching software and hardware reviews. Be sure to check in from time to time!
 
